@@ -14,4 +14,3 @@
 
 ---
 
-Let me know if you'd like a **longer version for a portfolio**, a **GitHub README**, or help making a **visual dashboard or notebook** to go with this!
